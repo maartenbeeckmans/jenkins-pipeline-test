@@ -1,5 +1,5 @@
 void call() {
-  stage("Bind: validate") {
+  stage("Bind: validate zonefile") {
     println "validating bind zone files"
   }
 }
