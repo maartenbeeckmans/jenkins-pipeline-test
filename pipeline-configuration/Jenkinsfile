@@ -1,5 +1,5 @@
 bind_validate_zonefiles()
-puppet_validate_puppetcode()
+puppet_validate_code()
 puppet_validate_hiera()
 fpm_package_deb()
 fpm_package_rpm()
